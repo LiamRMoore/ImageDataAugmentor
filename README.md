@@ -14,7 +14,7 @@ For similar projects, see:
 
 
 ### Installation
-```$ pip install git+https://github.com/mjkvaak/ImageDataAugmentor```
+```$ pip install git+https://github.com/LiamRMoore/ImageDataAugmentor```
 
 ### How to use
 The usage is analogous to Keras' `ImageDataGenerator` with the exception that the image transformations will be generated using an external augmentations library. Below are examples of some commonly encountered use cases.
